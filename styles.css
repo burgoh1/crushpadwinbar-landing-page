@@ -1,0 +1,66 @@
+* {
+  box-sizing: border-box;
+}
+
+header {
+  /* border: 2px solid black; */
+  display: flex;
+  width: 100%;
+  height: 135px;
+  justify-content: center;
+  background: #c49545;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.header-content {
+  /* border: 2px solid black; */
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  width: 600px;
+  height: 100%;
+  max-height: 400px;
+  color: #002e5c;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  padding: 5px 0;
+}
+
+.header-content > p {
+  display: flex;
+  /* border: 2px solid black; */
+  /* margin: 0 0 15px 0; */
+  margin: 0;
+  padding: 0;
+  flex-grow: 1;
+  justify-content: center;
+  align-items: center;
+}
+
+.image-section {
+  /* border: 2px solid black; */
+  width: 100%;
+  height: 800px;
+  background-image: url("images/wineclub.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  min-height: 500px;
+  /* position: relative; */
+}
+
+.nav-container {
+  border: 2px solid black;
+  /* position: absolute;
+  top: 0;
+  left: 0; */
+  width: 100%;
+}
+
+.logo {
+  border: 2px solid black;
+}
+
+.tabs {
+  border: 2px solid black;
+}
