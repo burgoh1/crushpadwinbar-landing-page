@@ -5,4 +5,5 @@ My attempt at recreating Crushpad Wine Bar's landing page. A way for me to pract
 (original) Crushpad Wine Bar landing page:
 https://www.crushpadwinebar.com/
 
-(recreated) Crushpad Wine Bar landing page.
+(recreated) Crushpad Wine Bar landing page:
+https://burgoh1.github.io/crushpadwinbar-landing-page/
